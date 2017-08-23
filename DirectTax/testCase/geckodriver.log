@@ -1,0 +1,78 @@
+1502526169029	geckodriver	INFO	Listening on 127.0.0.1:51898
+1502526172047	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502526177197	Marionette	INFO	Listening on port 51904
+[GPU 5600] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5600] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8588] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+xWidgets.min.js?version=2.9.2b42, line 5: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 9: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 21: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 25: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 64: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 64: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 121: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 125: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 125: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 125: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 125: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 125: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 129: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 137: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 153: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/flexform2/runtime/js/manager/alertMgr-min.js?version=2.9.2b42, line 1: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/flexform2/runtime/js/manager/alertMgr-min.js?version=2.9.2b42, line 1: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/flexform2/runtime/js/manager/alertMgr-min.js?version=2.9.2b42, line 1: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/flexform2/runtime/js/manager/tabMgr-min.js?version=2.9.2b42, line 1: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/flexform2/runtime/js/manager/tabMgr-min.js?version=2.9.2b42, line 1: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/flexform2/runtime/js/manager/tabMgr-min.js?version=2.9.2b42, line 1: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 5: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 5: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 9: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 21: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 25: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 64: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 64: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 121: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 125: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 125: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 125: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 125: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 125: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 129: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 137: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 153: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 125: unreachable code after return statement
+JavaScript warning: https://eb-fp-test:8101/e-biscus/framework/flexform2/core/flexWidgets.min.js?version=2.9.2b42, line 21: unreachable code after return statement
+[Child 7380] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7380] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+annel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400A8,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
